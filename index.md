@@ -7,7 +7,7 @@ Tuesdays 4:30- 6pm at Stanford Gates 415
 
 ## Introductory Material
 
-- [Jure’s CS 224m](https://web.stanford.edu/class/cs224w/index.html#schedule) (Lecture 6 onwards)
+- [Jure’s CS 224w](https://web.stanford.edu/class/cs224w/index.html#schedule) (Lecture 6 onwards)
 - [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/), book by Will Hamilton
 - GNN Intro Blog Posts
   - <https://distill.pub/2021/gnn-intro/>
