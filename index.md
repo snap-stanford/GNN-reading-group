@@ -46,13 +46,20 @@ Tuesdays 4:30- 6pm at Stanford Gates 415
   - [Learning a SAT Solver from Single-Bit Supervision](https://arxiv.org/abs/1802.03685) 
   - [Combinatorial optimization and reasoning with graph neural networks](https://arxiv.org/abs/2102.09544)
  
-- 5/11: Auto-scaling GNNs & PyG 2.0
+- 5/11/2022: Auto-scaling GNNs & PyG 2.0
   - Presenter: [Matthias Fey](https://rusty1s.github.io/#/)
   - [Slides](https://drive.google.com/file/d/1J5Zxd1LhDKVX0VtMU1y21GZ-48FI8Z9i/view?usp=sharing)
 
-- 5/24: GNN Embedding
-  -  Presenter: [Rex Ying](https://cs.stanford.edu/people/rexy/)
+- 5/24/2022: GNN Embedding
+  - Presenter: [Rex Ying](https://cs.stanford.edu/people/rexy/)
+  - [Slides](https://drive.google.com/file/d/1VXlSsJu9kbUQVz16Vi4baidpv-S5nfxT/view?usp=sharing)
 
+- 5/31/2022: Hyperbolic GNN Embedding
+  - Presenter: Aaron Lou
+  - [Slides](https://drive.google.com/file/d/1HRvlyB8EHzU3hQdvX3sNzbl4apygAP3Z/view?usp=sharing)
+
+- 6/7/2022: Box Embedding for KG reasoning
+  - Presenter: Hongyu Ren
 
 ## Other Topics and Papers for Future
 
