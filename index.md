@@ -42,9 +42,10 @@ Tuesdays 4:30- 6pm at Stanford Gates 415
 
 - 5/3/2022: Constraint satisfaction and Combinatorial problems
   - Presenter: Aidan Perreault, Moses Charikar
-  - [Graph Neural Networks for Maximum Constraint Satisfaction](https://arxiv.org/abs/1909.08387)
-  - [Learning a SAT Solver from Single-Bit Supervision](https://arxiv.org/abs/1802.03685) 
-  - [Combinatorial optimization and reasoning with graph neural networks](https://arxiv.org/abs/2102.09544)
+  - Related papers:
+    - [Graph Neural Networks for Maximum Constraint Satisfaction](https://arxiv.org/abs/1909.08387)
+    - [Learning a SAT Solver from Single-Bit Supervision](https://arxiv.org/abs/1802.03685) 
+    - [Combinatorial optimization and reasoning with graph neural networks](https://arxiv.org/abs/2102.09544)
  
 - 5/11/2022: Auto-scaling GNNs & PyG 2.0
   - Presenter: [Matthias Fey](https://rusty1s.github.io/#/)
