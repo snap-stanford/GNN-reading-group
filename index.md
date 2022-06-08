@@ -23,7 +23,7 @@ Tuesdays 4:30- 6pm at Stanford Gates 415
     - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826)
 
 - 4/12/2022: Discussion on expressive power of GNN
-  - Presenter: Qian
+  - Presenter: Qian Huang
   - [Slides](https://docs.google.com/presentation/d/1A19TdVsAh6KwwokOObkovVUFW4Cykyb7P4cm0Taj8Lk/edit?usp=sharing)
   - Related papers:
     - [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826) (last week Weihua’s presentation)
