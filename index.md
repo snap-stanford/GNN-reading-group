@@ -61,6 +61,7 @@ Tuesdays 4:30- 6pm at Stanford Gates 415
 
 - 6/7/2022: Box Embedding for KG reasoning
   - Presenter: Hongyu Ren
+  - [Slides](https://drive.google.com/file/d/1liAX6Mekp0a5HthivsyS5dfFLZxb8mRm/view?usp=sharing)
 
 ## Other Topics and Papers for Future
 
