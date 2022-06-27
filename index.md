@@ -2,7 +2,7 @@
 
 
 ## Meeting Time and Location 
-Tuesdays 4:30- 6pm at Stanford Gates 415 ([google calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=M3IzbzBtMHZ2MDFnbGVoM3NiZGVqZDNtZ2tfMjAyMjA2MjhUMjMzMDAwWiBxaWFuMTIzcXdAbQ&tmsrc=qian123qw%40gmail.com&scp=ALL)[zoom](https://stanford.zoom.us/j/99662423809?pwd=N1VTZnVNeGM0MU0veWhQckQ1YUJsUT09))
+Tuesdays 4:30- 6pm at Stanford Gates 415 ([google calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=M3IzbzBtMHZ2MDFnbGVoM3NiZGVqZDNtZ2tfMjAyMjA2MjhUMjMzMDAwWiBxaWFuMTIzcXdAbQ&tmsrc=qian123qw%40gmail.com&scp=ALL)  [zoom](https://stanford.zoom.us/j/99662423809?pwd=N1VTZnVNeGM0MU0veWhQckQ1YUJsUT09))
 
 
 ## Introductory Material
