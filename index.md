@@ -92,8 +92,8 @@ Tuesdays 4:30- 6pm at Stanford Gates 415 ([google calendar](https://calendar.goo
   - [Understanding over-squashing and bottlenecks on graphs via curvature (ICLR 22)](https://arxiv.org/pdf/2111.14522.pdf)
 
 - GNN + geometric representation learning (non-euclidean space)
- - [Hyperbolic Graph Neural Networks](https://arxiv.org/abs/1910.12892)
- - [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) 
+  - [Hyperbolic Graph Neural Networks](https://arxiv.org/abs/1910.12892)
+  - [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933) 
 
 - Geometric Deep Learning, Invariant/equivariant Graph Networks
   - <https://www.youtube.com/watch?v=7pRIjJ_u2_c>
