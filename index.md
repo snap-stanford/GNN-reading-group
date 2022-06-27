@@ -2,7 +2,7 @@
 
 
 ## Meeting Time and Location 
-Tuesdays 4:30- 6pm at Stanford Gates 415 ([zoom](https://stanford.zoom.us/j/99662423809?pwd=N1VTZnVNeGM0MU0veWhQckQ1YUJsUT09))
+Tuesdays 4:30- 6pm at Stanford Gates 415 ([google calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=M3IzbzBtMHZ2MDFnbGVoM3NiZGVqZDNtZ2tfMjAyMjA2MjhUMjMzMDAwWiBxaWFuMTIzcXdAbQ&tmsrc=qian123qw%40gmail.com&scp=ALL)[zoom](https://stanford.zoom.us/j/99662423809?pwd=N1VTZnVNeGM0MU0veWhQckQ1YUJsUT09))
 
 
 ## Introductory Material
@@ -14,7 +14,25 @@ Tuesdays 4:30- 6pm at Stanford Gates 415 ([zoom](https://stanford.zoom.us/j/9966
   - <https://distill.pub/2021/understanding-gnns/>
 - [Moses’s repository of survey papers](https://www.dropbox.com/sh/61cpaowg8ityuin/AAAlpRRkbbRp7sy0-0hq9XMWa?dl=0)
 
-## Schedule
+## Schedule 
+
+### Summer 2022
+
+- 6/28/2022: Invariant Neural Nets for Eigenvectors, and other Invariances / Equivariances in Graph Machine Learning
+  - Presenter: Derek Lim, Joshua Robinson
+  - Related papers: [Sign and Basis Invariant Networks for Spectral Graph Representation Learning](https://arxiv.org/abs/2202.13013)
+  - Abstract: Various invariances and equivariances have been found to be useful for graph machine learning. Recently, invariance to symmetries exhibited by Laplacian eigenvectors has been shown to be beneficial for processing graphs.  We introduce SignNet and BasisNet -- the first neural architectures that are invariant to two key symmetries displayed by eigenvectors: (i) sign flips, since if v is an eigenvector then so is −v; and (ii) more general basis symmetries, which occur in higher dimensional eigenspaces with infinitely many choices of basis eigenvectors. We prove that our networks are universal, i.e., they can approximate any continuous function of eigenvectors with the desired invariances. Moreover, when used with Laplacian eigenvectors, our architectures are provably expressive for graph representation learning: they can provably compute useful functions on graphs that many other models cannot.
+
+- 7/5/2022: Break
+
+- 7/12/2022: CLRS benchmark and Graph Neural Networks are Dynamic Programmers (at 11am)
+  - Presenter: Petar Veličković
+  - Related papers: 
+    - [The CLRS Algorithmic Reasoning Benchmark](https://arxiv.org/abs/2205.15659)
+    - [Graph Neural Networks are Dynamic Programmers](https://arxiv.org/abs/2203.15544)
+
+
+### Spring 2022 
 
 - 4/5/2022: Tutorial on GNN and expressive power
   - Presenter: Weihua Hu
