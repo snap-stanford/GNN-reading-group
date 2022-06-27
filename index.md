@@ -88,8 +88,8 @@ Tuesdays 4:30- 6pm at Stanford Gates 415 ([google calendar](https://calendar.goo
   - [On Evaluation Metrics for Graph Generative Models (ICLR 22)](https://arxiv.org/pdf/2201.09871.pdf)
 
 -  GNN Oversquashing
-  - [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://arxiv.org/abs/2006.05205)
-  - [Understanding over-squashing and bottlenecks on graphs via curvature (ICLR 22)](https://arxiv.org/pdf/2111.14522.pdf)
+   - [On the Bottleneck of Graph Neural Networks and its Practical Implications](https://arxiv.org/abs/2006.05205)
+   - [Understanding over-squashing and bottlenecks on graphs via curvature (ICLR 22)](https://arxiv.org/pdf/2111.14522.pdf)
 
 - GNN + geometric representation learning (non-euclidean space)
   - [Hyperbolic Graph Neural Networks](https://arxiv.org/abs/1910.12892)
