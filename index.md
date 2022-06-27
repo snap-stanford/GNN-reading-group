@@ -2,7 +2,7 @@
 
 
 ## Meeting Time and Location 
-Tuesdays 4:30- 6pm at Stanford Gates 415
+Tuesdays 4:30- 6pm at Stanford Gates 415 ([zoom](https://stanford.zoom.us/j/99662423809?pwd=N1VTZnVNeGM0MU0veWhQckQ1YUJsUT09))
 
 
 ## Introductory Material
